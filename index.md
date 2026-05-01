@@ -1,9 +1,5 @@
 ## About Me
 
-**Ph.D. Student**
-Department of Architecture and Architectural Engineering
-, [SCIAL](https://smartinfra.snu.ac.kr), [DAAE](https://daae.snu.ac.kr), [SNU](https://www.snu.ac.kr)
-
 I am a Ph.D. student in the Department of Architecture and Architectural Engineering at Seoul National University. My research focuses on structural health monitoring, data-driven structural analysis, and AI-based methods for civil infrastructure systems.
 
 ---

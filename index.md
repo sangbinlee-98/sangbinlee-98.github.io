@@ -1,8 +1,8 @@
-# Sangbin Lee
+## About Me
 
-**Ph.D. Student**  
-Department of Architecture  
-Seoul National University
+**Ph.D. Student**
+Department of Architecture and Architectural Engineering
+, [SCIAL](https://smartinfra.snu.ac.kr), [DAAE](https://daae.snu.ac.kr), [SNU](https://www.snu.ac.kr)
 
 I am a Ph.D. student in the Department of Architecture and Architectural Engineering at Seoul National University. My research focuses on structural health monitoring, data-driven structural analysis, and AI-based methods for civil infrastructure systems.
 
@@ -50,6 +50,6 @@ In particular, I am interested in combining structural mechanics, sensing data, 
 - [`Email`](lsb10a@snu.ac.kr)
 - [`GitHub`](https://github.com/sangbinlee-98)
 - [`Google Scholar`](https://scholar.google.com/citations?user=7uTSeZIAAAAJ&hl=ko)
-- [`SCIAL'](https://smartinfra.snu.ac.kr)
-- [`DAAE`](https://daae.snu.ac.kr)
-- [`SNU`](https://www.snu.ac.kr)
+- 
+- 
+- 

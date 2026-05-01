@@ -13,6 +13,11 @@
 
 I am a Ph.D. student in the Department of Architecture and Architectural Engineering at Seoul National University. My research focuses on structural health monitoring, data-driven structural analysis, and AI-based methods for civil infrastructure systems.
 
+## Recent Updates
+
+[0000.00] OOOO
+[0000.00] OOOO
+
 ## Research Interests
 
 - Structural Health Monitoring

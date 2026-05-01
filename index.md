@@ -27,8 +27,9 @@ In particular, I am interested in combining structural mechanics, sensing data, 
 
 ## Education
 
-- Mar.2026 - Present Ph.D. Student Architecture and Architectural Engineering, Seoul National University
-- Mar.2024 - Feb.2026 M.S. Architecture and Architectural Engineering, Seoul National University
-- Mar.2017 - Feb.2023 B.S. Civil & Environmental Engineering, Hanyang University
-
-
+- **Ph.D. Student**, Architecture and Architectural Engineering, Seoul National University  
+  Mar. 2026 - Present
+- **M.S.**, Architecture and Architectural Engineering, Seoul National University  
+  Mar. 2024 - Feb. 2026
+- **B.S.**, Civil and Environmental Engineering, Hanyang University  
+  Mar. 2017 - Feb. 2023

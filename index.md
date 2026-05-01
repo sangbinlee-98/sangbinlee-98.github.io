@@ -1,3 +1,7 @@
+# Sangbin Lee (이상빈)
+
+
+
 ## About Me
 
 I am a Ph.D. student in the Department of Architecture and Architectural Engineering at Seoul National University. My research focuses on structural health monitoring, data-driven structural analysis, and AI-based methods for civil infrastructure systems.

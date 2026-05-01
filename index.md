@@ -44,12 +44,3 @@ In particular, I am interested in combining structural mechanics, sensing data, 
 - Lee, S., Koh, E., Jeon, S. I., & Kim, R. E. (2024). Pavement marking construction quality inspection and night visibility estimation using computer vision. Case Studies in Construction Materials, 20, e02953. [[paper](https://www.sciencedirect.com/science/article/pii/S2214509524001049)]
   
 ---
-
-## Contact
-
-- [`Email`](lsb10a@snu.ac.kr)
-- [`GitHub`](https://github.com/sangbinlee-98)
-- [`Google Scholar`](https://scholar.google.com/citations?user=7uTSeZIAAAAJ&hl=ko)
-- 
-- 
-- 

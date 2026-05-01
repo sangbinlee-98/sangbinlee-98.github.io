@@ -1,5 +1,5 @@
 title: "Sangbin Lee"
-description: "Ph.D. Student · Department of Architecture and Architectural Engineering, Seoul National University"
+description: 'Ph.D. Student<br><span class="affiliation-detail">Department of Architecture and Architectural Engineering</span><a href="https://www.snu.ac.kr" target="_blank">Seoul National University</a>'
 logo: /assets/img/profile.jpg
 show_downloads: false
 theme: jekyll-theme-minimal

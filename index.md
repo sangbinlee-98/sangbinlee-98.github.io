@@ -1,5 +1,14 @@
 # Sangbin Lee (이상빈)
 
+## Education
+
+- **Ph.D. Student**, Architecture and Architectural Engineering, Seoul National University  
+  Mar. 2026 - Present
+- **M.S.**, Architecture and Architectural Engineering, Seoul National University  
+  Mar. 2024 - Feb. 2026
+- **B.S.**, Civil and Environmental Engineering, Hanyang University  
+  Mar. 2017 - Feb. 2023
+
 ## About Me
 
 I am a Ph.D. student in the Department of Architecture and Architectural Engineering at Seoul National University. My research focuses on structural health monitoring, data-driven structural analysis, and AI-based methods for civil infrastructure systems.
@@ -25,11 +34,4 @@ In particular, I am interested in combining structural mechanics, sensing data, 
 
 - 
 
-## Education
 
-- **Ph.D. Student**, Architecture and Architectural Engineering, Seoul National University  
-  Mar. 2026 - Present
-- **M.S.**, Architecture and Architectural Engineering, Seoul National University  
-  Mar. 2024 - Feb. 2026
-- **B.S.**, Civil and Environmental Engineering, Hanyang University  
-  Mar. 2017 - Feb. 2023

@@ -15,17 +15,15 @@ header img {
 header .description {
   text-align: center;
   line-height: 1.5;
-  margin-bottom: 18px;
+  margin-bottom: 24px;
 }
 
-header .description .affiliation-detail {
-  display: block;
-  text-align: justify;
-  text-align-last: center;
+header .description p {
+  margin: 0;
 }
 
 header .view {
   text-align: center;
-  margin-top: 12px;
+  margin-top: 0;
   margin-bottom: 20px;
 }

@@ -1,5 +1,9 @@
 title: "Sangbin Lee"
-description: "Ph.D. Student · Department of Architecture and Architectural Engineering, [SCIAL](https://smartinfra.snu.ac.kr), [DAAE](https://daae.snu.ac.kr), [SNU](https://www.snu.ac.kr)"
+description: 'Ph.D. Student · Department of Architecture and Architectural Engineering, <a href="https://smartinfra.snu.ac.kr" target="_blank">SCIAL</a>, <a href="https://daae.snu.ac.kr" target="_blank">DAAE</a>, <a href="https://www.snu.ac.kr" target="_blank">SNU</a>'
 logo: /assets/img/profile.jpg
 show_downloads: false
 theme: jekyll-theme-minimal
+
+email: "lsb10@snu.ac.kr"
+github_url: "https://github.com/sangbinlee-98"
+scholar_url: "https://scholar.google.com/citations?user=7uTSeZIAAAAJ&hl=en"

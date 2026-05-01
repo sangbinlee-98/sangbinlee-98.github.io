@@ -1,3 +1,6 @@
+---
+---
+
 @import "{{ site.theme }}";
 
 header {
@@ -12,20 +15,17 @@ header img {
 header .description {
   text-align: center;
   line-height: 1.5;
-  margin-bottom: 16px;
-}
-
-header .view {
-  text-align: center;
-}
-
-header .description {
-  text-align: center;
-  line-height: 1.5;
-  margin-bottom: 16px;
+  margin-bottom: 18px;
 }
 
 header .description .affiliation-detail {
   display: block;
   text-align: justify;
+  text-align-last: center;
+}
+
+header .view {
+  text-align: center;
+  margin-top: 12px;
+  margin-bottom: 20px;
 }

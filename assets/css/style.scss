@@ -35,6 +35,11 @@ section h3 {
   text-align: left;
 }
 
+section h2 {
+  margin-top: 56px;
+  margin-bottom: 18px;
+}
+
 section li {
   text-align: justify;
   line-height: 1.65;
@@ -46,5 +51,6 @@ section ul {
 }
 
 .publication-list p {
-  margin-bottom: 30px;
+  margin-bottom: 24px;
+  line-height: 1.65
 }

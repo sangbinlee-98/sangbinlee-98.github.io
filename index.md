@@ -27,7 +27,7 @@ In particular, I am interested in combining structural mechanics, sensing data, 
 
 ## Journal Articles
 
-<div class="publication-list">
+<div class="publication-list" markdown="1">
 
 [3] **Lee, S.**, & Kim, R. E.* (2025). Hypothesis generation from pragmatic causal relationships for latent knowledge reasoning in the civil engineering domain. Computer‐Aided Civil and Infrastructure Engineering, 40(29), 5447-5473. [[paper](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.70101)]  
 [2] Lee, J., **Lee, S.**, Lee, J., & Kim, R. E.* (2025). Non-stationary vision sensing for time-frequency analysis in vehicle-bridge interaction system. Smart Structures and Systems, 35(4), 196-208. [[paper](https://doi.org/10.12989/sss.2025.35.4.195)]  
